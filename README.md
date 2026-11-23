@@ -1,10 +1,6 @@
 # Cybersecurity Notes
 
-My study notes as I move from web and mobile development into cybersecurity.
-After every Google course module and every TryHackMe room, I write a short note in my own words.
-
-<!-- ABOUT ME: write 2–3 sentences about yourself here, in your own words, and delete this comment.
-     You can reuse ideas from portfolio/professional-statement.md -->
+I'm a full-stack developer who graduated from Langara College, and I'm starting my path in cybersecurity with the Google Cybersecurity Certificate and TryHackMe. My goal is to get an entry-level IT job first, and then move into a cybersecurity role. Here you will find my notes and my own thoughts on what I learn in each certification. My next certificate will be CompTIA Security+.
 
 ## Progress
 
