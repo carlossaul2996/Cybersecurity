@@ -22,15 +22,6 @@ I'm a full-stack developer who graduated from Langara College, and I'm starting 
 | [tryhackme/](tryhackme/) | Notes for the TryHackMe learning paths |
 | [portfolio/](portfolio/) | Portfolio activities: professional statement, security audit, incident report, Python scripts |
 
-## How I take notes
-
-Every note answers the same five questions:
-
-1. **What I learned** — the main idea, in my own words
-2. **Tool** — the tool or technology I used
-3. **One command** — a command or query I ran
-4. **Real-world use** — where a security analyst would use this at work
-5. **Open question** — something I still want to understand
 
 ## Ethics
 
