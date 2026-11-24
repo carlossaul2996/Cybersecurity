@@ -39,4 +39,4 @@ Every note answers the same five questions:
 
 ## Contact
 
-- LinkedIn: [Carlos Martinez](https://www.linkedin.com/in/YOUR-PROFILE-HERE)
+- LinkedIn: [Carlos Martinez](](https://www.linkedin.com/in/carlossaul/)
