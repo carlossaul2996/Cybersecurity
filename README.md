@@ -30,4 +30,4 @@ I'm a full-stack developer who graduated from Langara College, and I'm starting 
 
 ## Contact
 
-- LinkedIn: [Carlos Martinez](](https://www.linkedin.com/in/carlossaul/)
+- LinkedIn: [Carlos Martinez](https://www.linkedin.com/in/carlossaul/)

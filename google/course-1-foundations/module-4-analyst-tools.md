@@ -1,21 +1,15 @@
-# Module or room name
+# Module 4: Cybersecurity tools and programming languages
 
-- **Source:** Google Course _ · Module _ — or — TryHackMe · Path · Room
-- **Date:** YYYY-MM-DD
+- **Source:** Google Course 1 · Module 4
 
 ## What I learned
-<!-- The main idea in 1–3 sentences, in your own words. -->
+SIEM tools collect and analyze log data and send alerts, which reduces the amount of data an analyst has to review, while packet sniffers capture and analyze network traffic. Playbooks guide analysts through specific security tasks step by step, such as keeping a chain of custody that documents who handled evidence during an investigation. Analysts also use Python to automate repetitive tasks, SQL to request information from databases and the Linux command line to send commands to the computer.
 
 ## Tool
-<!-- The tool or technology (for example Wireshark, Linux shell, SIEM). Write "none" for theory-only modules. -->
-
-## One command
-```bash
-# a command or query you ran, with a short comment that explains it
-```
+None used yet. This module introduces SIEM tools, packet sniffers, Linux, SQL and Python.
 
 ## Real-world use
-<!-- Where a security analyst would use this at work. -->
+After a small medical practice suffers a breach, analysts follow playbooks during the forensic investigation. They report every time the evidence is moved and investigate using copies of the data, so the original evidence is not altered.
 
 ## Open question
-<!-- Something you still don't fully understand. Come back and answer it later. -->
+If a packet sniffer records all the data a computer sees on the network, how do organizations keep that captured data private?
